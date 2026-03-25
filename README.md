@@ -39,6 +39,10 @@ Vision does not collect, store, or share any personal data. All communication ha
 
 Vision is an independent, unofficial companion app. It is not affiliated with or endorsed by the Overseerr, Jellyseerr, or Seerr projects.
 
+This product uses the [TMDB API](https://www.themoviedb.org/documentation/api) but is not endorsed or certified by TMDB.
+
+Plex is a trademark of Plex, Inc. This app is not affiliated with or endorsed by Plex, Inc.
+
 ## License
 
 MIT
