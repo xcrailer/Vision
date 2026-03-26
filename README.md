@@ -1,6 +1,3 @@
-Here's your updated README:
-
----
 
 # Vision
 
